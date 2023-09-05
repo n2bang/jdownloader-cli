@@ -14,7 +14,7 @@
 
 module github.com/n2bang/jdownloader-cli
 
-go 1.18
+go 1.23
 
 require (
 	github.com/olekukonko/tablewriter v0.0.5
