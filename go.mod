@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-module github.com/rkosegi/jdownloader-cli
+module github.com/n2bang/jdownloader-cli
 
 go 1.18
 
